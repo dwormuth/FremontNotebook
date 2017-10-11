@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# DWW 10/10/17 Ignore datafile
+Fremont.csv
+
